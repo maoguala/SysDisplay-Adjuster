@@ -11,6 +11,8 @@ The Application Wrote with C sharp of plaform NET 4.8
 該應用程式是用NET 4.8平台的C Sharp編寫的。
 
 QRes.exe : https://www.majorgeeks.com/mg/getmirror/qres,1.html
+
+
 NET 4.8  : https://go.microsoft.com/fwlink/?linkid=2088631
 
 成品：
