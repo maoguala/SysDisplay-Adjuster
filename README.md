@@ -12,4 +12,5 @@ The Application Wrote with C sharp of plaform NET 4.8
 
 
 成品：
+
 ![image](https://github.com/maoguala/SysDisplay-Adjuster/blob/main/GUI.png)
