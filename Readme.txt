@@ -1,5 +1,11 @@
-(Location of Qres.exe)\QRes.exe /x:(Insert your resolution of X for target) /y:(Insert your resolution of Y for target)
+I just integrate the System resolution and fresh rate with QRes.exe
 
-with QRes.Bat
+And I Integrate it for convenient to used.
 
-And I just Integrate it for convenient to used.
+The Application Wrote with C sharp of plaform NET 4.8
+
+我只是將系統解析度和刷新率與 QRes.exe 集成。
+
+為了方便使用，我將其整合。
+
+該應用程式是用NET 4.8平台的C Sharp編寫的。
