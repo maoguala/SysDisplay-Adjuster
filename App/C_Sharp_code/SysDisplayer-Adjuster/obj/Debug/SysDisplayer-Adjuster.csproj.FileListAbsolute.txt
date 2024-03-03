@@ -1,0 +1,10 @@
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\bin\Debug\SysDisplayer-Adjuster.exe.config
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\bin\Debug\SysDisplayer-Adjuster.exe
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\bin\Debug\SysDisplayer-Adjuster.pdb
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\obj\Debug\SysDisplayer-Adjuster.csproj.AssemblyReference.cache
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\obj\Debug\SysDisplayer_Adjuster.Form1.resources
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\obj\Debug\SysDisplayer_Adjuster.Properties.Resources.resources
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\obj\Debug\SysDisplayer-Adjuster.csproj.GenerateResource.cache
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\obj\Debug\SysDisplayer-Adjuster.csproj.CoreCompileInputs.cache
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\obj\Debug\SysDisplayer-Adjuster.exe
+P:\QRes\Qres_All_Res\C_sharp_resource\code_NET_4.8\SysDisplayer-Adjuster\SysDisplayer-Adjuster\obj\Debug\SysDisplayer-Adjuster.pdb
